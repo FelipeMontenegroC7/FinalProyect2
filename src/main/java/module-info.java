@@ -3,7 +3,7 @@ module com.uniquindio.edu.finalprojectclocal {
     requires javafx.fxml;
     requires java.xml;
     requires java.desktop;
-    //requires com.uniquindio.edu.finalprojectclocal;
+    requires javafx.graphics;
 
 
     opens com.uniquindio.edu.finalprojectclocal to javafx.fxml;

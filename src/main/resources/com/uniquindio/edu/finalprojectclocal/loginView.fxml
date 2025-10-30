@@ -53,7 +53,7 @@
                               <Font size="18.0" />
                            </font>
                         </Label>
-                        <TextField fx:id="txtUsername" layoutX="106.0" layoutY="66.0" promptText="Type your username" />
+                        <TextField fx:id="txtUsername" layoutX="106.0" layoutY="66.0" promptText="Type your email" />
                         <Label id="text" contentDisplay="CENTER" layoutX="14.0" layoutY="136.0" text="Password:">
                            <font>
                               <Font size="18.0" />
